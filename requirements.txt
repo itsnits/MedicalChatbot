@@ -1,0 +1,9 @@
+ctransformers
+sentence-transformers==2.2.2
+pinecone-client
+langchain
+flask
+pypdf
+python-dotenv
+huggingface
+openai
